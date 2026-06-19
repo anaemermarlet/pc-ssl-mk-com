@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anaemermarlet.github.io/pc-ssl-mk-com/sitemap.xml
